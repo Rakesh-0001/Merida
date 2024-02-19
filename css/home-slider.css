@@ -1,0 +1,68 @@
+.home-sliders{
+    width: 100%;
+    height: 500px;
+    background-image: url('../images/main-slider/2.jpg');
+    background-size: cover;
+}
+.home-card-main{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(81, 207, 207,.2);
+    background-size: cover;
+
+}
+.home-card{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    
+    
+
+}
+.rows{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 100px;
+}
+
+
+.home-client{
+    position: relative;
+    bottom: 120px;
+}
+.client-head{
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+
+
+.home-box:hover{
+    background: linear-gradient(to right,rgb(24, 24, 242),white); 
+}
+.brand-img{
+    width: 100px;
+    height: 100px;
+    
+}
+.review {
+    background-image: url('../images/background/4.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 600px;
+    position: relative;
+   
+}
+.review-color{
+    width: 100%;
+    height: 600px;
+    background-color: rgba(240, 247, 247, .6);
+    position: absolute;
+    bottom: 1592px;
+}
+
+

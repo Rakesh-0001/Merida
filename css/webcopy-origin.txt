@@ -1,0 +1,1324 @@
+Uri: https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800;900&display=swap
+File Name: D:\CLONE\html.themexriver.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap
+File Name: D:\CLONE\html.themexriver.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap
+File Name: D:\CLONE\html.themexriver.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap
+File Name: D:\CLONE\html.themexriver.com\css2-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnFK_uQQ.ttf
+File Name: D:\CLONE\html.themexriver.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnFK_uQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnLK3uQQ.ttf
+File Name: D:\CLONE\html.themexriver.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnLK3uQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnMK7uQQ.ttf
+File Name: D:\CLONE\html.themexriver.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnMK7uQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnPKruQQ.ttf
+File Name: D:\CLONE\html.themexriver.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnPKruQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnSKzuQQ.ttf
+File Name: D:\CLONE\html.themexriver.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnSKzuQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnZKvuQQ.ttf
+File Name: D:\CLONE\html.themexriver.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnZKvuQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9E4kDNxMZdWfMOD5VfkA.ttf
+File Name: D:\CLONE\html.themexriver.com\s\firasans\v17\va9E4kDNxMZdWfMOD5VfkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: D:\CLONE\html.themexriver.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: D:\CLONE\html.themexriver.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: D:\CLONE\html.themexriver.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: D:\CLONE\html.themexriver.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: D:\CLONE\html.themexriver.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: D:\CLONE\html.themexriver.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: D:\CLONE\html.themexriver.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: D:\CLONE\html.themexriver.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: D:\CLONE\html.themexriver.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: D:\CLONE\html.themexriver.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: D:\CLONE\html.themexriver.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: D:\CLONE\html.themexriver.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+File Name: D:\CLONE\html.themexriver.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: D:\CLONE\html.themexriver.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: D:\CLONE\html.themexriver.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+File Name: D:\CLONE\html.themexriver.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: D:\CLONE\html.themexriver.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+File Name: D:\CLONE\html.themexriver.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+File Name: D:\CLONE\html.themexriver.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://html.themexriver.com/it-firm/
+File Name: D:\CLONE\html.themexriver.com\it-firm\index.htm
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/about.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\about.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/blog-detail.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\blog-detail.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/blog.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\blog.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/contact.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\contact.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/css/animate.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\animate.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/bootstrap.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/custom-animate.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\custom-animate.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/flaticon.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\flaticon.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/font-awesome.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/footer.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\footer.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/global.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\global.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/header.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\header.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/jquery-ui.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/magnific-popup.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/odometer-theme-default.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\odometer-theme-default.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/owl.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\owl.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/responsive.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\responsive.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/css/style.css
+File Name: D:\CLONE\html.themexriver.com\it-firm\css\style.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/it-firm/fonts/fa-brands-400.ttf
+File Name: D:\CLONE\html.themexriver.com\it-firm\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themexriver.com/it-firm/fonts/fa-light-300.ttf
+File Name: D:\CLONE\html.themexriver.com\it-firm\fonts\fa-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themexriver.com/it-firm/fonts/fa-regular-400.ttf
+File Name: D:\CLONE\html.themexriver.com\it-firm\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themexriver.com/it-firm/fonts/fa-solid-900.ttf
+File Name: D:\CLONE\html.themexriver.com\it-firm\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themexriver.com/it-firm/fonts/flaticon.eot
+File Name: D:\CLONE\html.themexriver.com\it-firm\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.themexriver.com/it-firm/fonts/flaticon.eot?
+File Name: D:\CLONE\html.themexriver.com\it-firm\fonts\flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.themexriver.com/it-firm/fonts/flaticon.svg
+File Name: D:\CLONE\html.themexriver.com\it-firm\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themexriver.com/it-firm/fonts/flaticon.ttf
+File Name: D:\CLONE\html.themexriver.com\it-firm\fonts\flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themexriver.com/it-firm/fonts/flaticon.woff
+File Name: D:\CLONE\html.themexriver.com\it-firm\fonts\flaticon.woff
+Content Type: font/woff
+
+Uri: https://html.themexriver.com/it-firm/images/background/1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/background/2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/background/3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/background/4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/background/5.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/background/6.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/background/7.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/background/8.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/background/map-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\map-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/map.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\map.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-10.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-10.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-11.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-11.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-12.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-12.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-13.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-13.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-14.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-14.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-15.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-15.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-16.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-16.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-17.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-17.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-18.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-18.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-19.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-19.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-20.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-20.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-21.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-21.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-22.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-22.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-23.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-23.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-24.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-24.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-25.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-25.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-26.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-26.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-27.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-27.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-28.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-28.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-29.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-29.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-3.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-30.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-30.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-31.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-31.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-32.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-32.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-33.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-33.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-34.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-34.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-35.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-35.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-36.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-36.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-37.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-37.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-38.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-38.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-39.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-39.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-4.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-4.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-40.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-40.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-41.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-41.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-42.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-42.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-43.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-43.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-44.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-44.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-45.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-45.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-46.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-46.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-47.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-47.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-48.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-48.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-5.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-5.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-6.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-6.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-7.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-7.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-8.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-8.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/background/pattern-9.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\background\pattern-9.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/clients/10.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\10.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/11.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\11.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/12.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\12.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/13.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\13.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/14.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\14.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/15.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\15.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/16.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\16.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/17.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\17.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/18.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\18.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/clients/3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/clients/4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/clients/5.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\5.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/6.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\6.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/7.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\7.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/8.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\8.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/clients/9.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\clients\9.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/cross-out.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\cross-out.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/favicon.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\favicon.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/footer-logo.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\footer-logo.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/footer-gallery-thumb-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\footer-gallery-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/footer-gallery-thumb-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\footer-gallery-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/footer-gallery-thumb-3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\footer-gallery-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/footer-gallery-thumb-4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\footer-gallery-thumb-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/footer-gallery-thumb-5.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\footer-gallery-thumb-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/footer-gallery-thumb-6.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\footer-gallery-thumb-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/instagram-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\instagram-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/instagram-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\instagram-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/instagram-3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\instagram-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/instagram-4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\instagram-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/instagram-5.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\instagram-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/instagram-6.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\instagram-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-10.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-11.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-5.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-6.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-7.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-8.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/gallery/project-9.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\gallery\project-9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/icons/about-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\about-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/about-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\about-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/about-dots.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\about-dots.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/award.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\award.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/banner-icons.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\banner-icons.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/circle-layer.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\circle-layer.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/contact-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\contact-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/contact-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\contact-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/contact-3.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\contact-3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/counter-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\counter-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/counter-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\counter-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/counter-3.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\counter-3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/feature-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\feature-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/feature-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\feature-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/feature-3.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\feature-3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/feature-4.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\feature-4.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/feature-5.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\feature-5.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/feature-6.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\feature-6.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/feature-7.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\feature-7.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/fluid-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\fluid-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/fluid-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\fluid-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/news-icon.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\news-icon.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/preloader.svg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\preloader.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themexriver.com/it-firm/images/icons/quote-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\quote-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/quote.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\quote.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/separator-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\separator-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/separator.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\separator.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-10-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-10-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-10.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-10.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-11-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-11-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-11.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-11.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-12.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-12.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-13.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-13.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-14.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-14.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-15.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-15.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-16.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-16.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-17.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-17.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-18.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-18.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-19.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-19.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-20.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-20.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-21.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-21.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-22.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-22.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-23.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-23.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-24.gif
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-24.gif
+Content Type: image/gif
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-25.gif
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-25.gif
+Content Type: image/gif
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-26.gif
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-26.gif
+Content Type: image/gif
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-27.gif
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-27.gif
+Content Type: image/gif
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-28.gif
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-28.gif
+Content Type: image/gif
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-29.gif
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-29.gif
+Content Type: image/gif
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-3.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-30.gif
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-30.gif
+Content Type: image/gif
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-31.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-31.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-32.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-32.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-33.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-33.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-34.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-34.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-35.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-35.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-36.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-36.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-37.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-37.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-4.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-4.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-5.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-5.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-6.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-6.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-7.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-7.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-8-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-8-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-8.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-8.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-9-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-9-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/service-9.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\service-9.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/step-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\step-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/step-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\step-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/icons/step-3.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\icons\step-3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/logo-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\logo-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/logo-3.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\logo-3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/logo.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\logo.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/main-slider/1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\main-slider\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/main-slider/2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\main-slider\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/main-slider/3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\main-slider\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/main-slider/curve.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\main-slider\curve.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/main-slider/pattern-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\main-slider\pattern-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/about-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/about-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/about-3.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\about-3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/about-4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\about-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-10.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-11.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-12.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-13.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-13.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-5.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-6.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-6.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-7.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-7.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-8.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-8.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/author-9.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\author-9.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/banner.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\banner.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/case-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\case-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/case-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\case-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/case-3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\case-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/choose.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\choose.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/company-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\company-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/company.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\company.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/error.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\error.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/fluid-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\fluid-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/fluid-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\fluid-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/fluid-3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\fluid-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-10.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-11.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-5.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-6.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-7.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-8.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/news-9.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\news-9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/post-thumb-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\post-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/post-thumb-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\post-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/post-thumb-3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\post-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/post-thumb-4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\post-thumb-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/post-thumb-5.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\post-thumb-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/post-thumb-6.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\post-thumb-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/process-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\process-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/process-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\process-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/process-3.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\process-3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/process-4.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\process-4.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/project.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\project.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-10.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-11.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-5.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-6.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-7.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-8.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/service-9.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\service-9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/team-1.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/team-2.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/team-3.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/team-4.jpg
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/it-firm/images/resource/testimonial-1.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\testimonial-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/testimonial-2.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\testimonial-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/images/resource/testimonial.png
+File Name: D:\CLONE\html.themexriver.com\it-firm\images\resource\testimonial.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/it-firm/index-2.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\index-2.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/index-3.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\index-3.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/index-4.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\index-4.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/index.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\index.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/js/appear.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\appear.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/bootstrap.min.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/jquery.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/magnific-popup.min.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/mixitup.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\mixitup.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/nav-tool.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\nav-tool.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/odometer.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\odometer.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/owl.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\owl.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/parallax-scroll.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\parallax-scroll.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/parallax.min.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/popper.min.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/script.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\script.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/tilt.jquery.min.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\tilt.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/validate.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\validate.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/js/wow.js
+File Name: D:\CLONE\html.themexriver.com\it-firm\js\wow.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/it-firm/not-found.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\not-found.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/project-detail.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\project-detail.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/project.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\project.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/service-detail.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\service-detail.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/it-firm/services.html
+File Name: D:\CLONE\html.themexriver.com\it-firm\services.html
+Content Type: text/html
+
