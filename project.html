@@ -83,21 +83,8 @@
 
 									<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 										<ul class="navigation clearfix">
-											<li class=""><a href="#">Home</a>
-												<!-- <ul>
-													<li><a href="#"> One</a></li>
-													<li><a href="#"> Two</a></li>
-													<li><a href="#"> Three</a></li>
-													<li><a href="#"> Four</a></li>
-													<li class="dropdown"><a href="#">Sub</a>
-														<ul>
-															<li><a href="#"> One</a></li>
-															<li><a href="index-2.html"> Two</a></li>
-															<li><a href="index-3.html"> Three</a></li>
-															<li><a href="index-4.html"> Four</a></li>
-														</ul>
-													</li>
-												</ul> -->
+											<li ><a href="index.html">Home</a>
+												
 											</li>
 											<li><a href="about.html">About Us</a></li>
 											<li class="dropdown"><a href="services.html">Services</a>
@@ -108,21 +95,28 @@
 													<li><a href="isc.html">ISC Syllabus</a></li>
 												</ul>
 											</li>
-											<li class="dropdown"><a href="project.html">Subject</a>
+											<li class="dropdown"><a href="">Subjects</a>
 												<ul>
-													<li><a href="project.html">English</a></li>
-													<li><a href="project.html">Maths</a></li>
-													<li><a href="project.html">Physics</a></li>
-													<li><a href="project.html">Chemistry</a></li>
-													<li><a href="project.html">Biology</a></li>
-													<li><a href="project.html">French</a></li>
-													<li><a href="project.html">Hindi</a></li>
-													<li><a href="project.html">kannada</a></li>
-		
-													<li><a href="project.html">History & Geography</a></li>
-													
+
+													<li class="dropdown"><a href="">Language Tuition</a>
+														<ul>
+															<li><a href="Tamil.html">Tamil</a></li>
+															<li><a href="English.html">English</a></li>
+															<li><a href="French.html">French</a></li>
+															<li><a href="Kannada.html">kannada</a></li>
+															<li><a href="Hindi.html">Hindi</a></li>
+
+														</ul>
+													</li>
+													<li><a href="Maths.html">Maths</a></li>
+													<li><a href="Physics.html">Physics</a></li>
+													<li><a href="Chemistry.html">Chemistry</a></li>
+													<li><a href="Biology.html">Biology</a></li>
+													<li><a href="History.html">History </a></li>
+													<li><a href="Geography.html"> Geography</a></li>
 												</ul>
 											</li>
+
 											<li class=""><a href="blog.html">Blog</a>
 												<!-- <ul>
 													<li><a href="#">one</a></li>
@@ -138,13 +132,48 @@
 
 								<div class="outer-box d-flex align-items-center">
 
+									<style>
+										.search-results {
+											display: none;
+											position: absolute;
+											background-color: #fff;
+											border: 1px solid #ccc;
+											max-width: 300px;
+											overflow-y: auto;
+											max-height: 150px;
+										}
+
+										.search-results a {
+											display: block;
+											padding: 10px;
+											text-decoration: none;
+											color: #333;
+											width: 200px;
+										}
+									</style>
+
 									<!-- Search Box -->
 									<div class="search-box">
-										<form method="post" action="contact.html">
+										<!-- <form method="post" action="contact.html">
 											<div class="form-group">
 												<input type="search" name="search-field" value=""
 													placeholder="Search..." required="">
 												<button type="submit"><span class="icon fa fa-search"></span></button>
+											</div>
+										</form> -->
+										<!-- <form id="searchForm" method="post" action="contact.html">
+											<div class="form-group">
+												<input type="search" id="searchField" name="search-field" value="" placeholder="Search..." required="">
+												<button type="button" onclick="performSearch()"><span class="icon fa fa-search"></span></button>
+											</div>
+										</form> -->
+										<form id="searchForm" method="post" action="contact.html">
+											<div class="form-group">
+												<input type="search" id="searchField" name="search-field" value=""
+													placeholder="Search..." required="" oninput="showSearchResults()">
+												<div id="searchResults" class="search-results"></div>
+												<button type="button" onclick="performSearch()"><span
+														class="icon fa fa-search"></span></button>
 											</div>
 										</form>
 									</div>
@@ -538,16 +567,17 @@
 
 
 
+		
 		<!-- CTA One -->
 		<section class="bg-primary p-5">
 			<div class="auto-container">
 				<div class="d-flex justify-content-between align-items-center flex-wrap">
 					<div class="left-box">
-						<h3 class="cta-one_heading">Looking for the Best IT Business Solutions?</h3>
+						<h3 class="cta-one_heading">Looking For The Best Tuition Center</h3>
 						<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 					</div>
 					<div class="right-box">
-						<a class="cta-one_btn theme-btn bg-white text-black" href="">get a quote</a>
+						<a class="cta-one_btn theme-btn bg-white text-black" href="contact.html">get a quote</a>
 					</div>
 				</div>
 			</div>

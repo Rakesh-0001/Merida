@@ -82,21 +82,8 @@
 
 							<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
-									<li class=""><a href="#">Home</a>
-										<!-- <ul>
-											<li><a href="#"> One</a></li>
-											<li><a href="#"> Two</a></li>
-											<li><a href="#"> Three</a></li>
-											<li><a href="#"> Four</a></li>
-											<li class="dropdown"><a href="#">Sub</a>
-												<ul>
-													<li><a href="#"> One</a></li>
-													<li><a href="index-2.html"> Two</a></li>
-													<li><a href="index-3.html"> Three</a></li>
-													<li><a href="index-4.html"> Four</a></li>
-												</ul>
-											</li>
-										</ul> -->
+									<li ><a href="index.html">Home</a>
+										
 									</li>
 									<li><a href="about.html">About Us</a></li>
 									<li class="dropdown"><a href="services.html">Services</a>
@@ -107,21 +94,28 @@
 											<li><a href="isc.html">ISC Syllabus</a></li>
 										</ul>
 									</li>
-									<li class="dropdown"><a href="project.html">Subject</a>
+									<li class="dropdown"><a href="">Subjects</a>
 										<ul>
-											<li><a href="project.html">English</a></li>
-											<li><a href="project.html">Maths</a></li>
-											<li><a href="project.html">Physics</a></li>
-											<li><a href="project.html">Chemistry</a></li>
-											<li><a href="project.html">Biology</a></li>
-											<li><a href="project.html">French</a></li>
-											<li><a href="project.html">Hindi</a></li>
-											<li><a href="project.html">kannada</a></li>
 
-											<li><a href="project.html">History & Geography</a></li>
-											
+											<li class="dropdown"><a href="">Language Tuition</a>
+												<ul>
+													<li><a href="Tamil.html">Tamil</a></li>
+													<li><a href="English.html">English</a></li>
+													<li><a href="French.html">French</a></li>
+													<li><a href="Kannada.html">kannada</a></li>
+													<li><a href="Hindi.html">Hindi</a></li>
+
+												</ul>
+											</li>
+											<li><a href="Maths.html">Maths</a></li>
+											<li><a href="Physics.html">Physics</a></li>
+											<li><a href="Chemistry.html">Chemistry</a></li>
+											<li><a href="Biology.html">Biology</a></li>
+											<li><a href="History.html">History </a></li>
+											<li><a href="Geography.html"> Geography</a></li>
 										</ul>
 									</li>
+
 									<li class=""><a href="blog.html">Blog</a>
 										<!-- <ul>
 											<li><a href="#">one</a></li>
@@ -137,13 +131,48 @@
 
 						<div class="outer-box d-flex align-items-center">
 
+							<style>
+								.search-results {
+									display: none;
+									position: absolute;
+									background-color: #fff;
+									border: 1px solid #ccc;
+									max-width: 300px;
+									overflow-y: auto;
+									max-height: 150px;
+								}
+
+								.search-results a {
+									display: block;
+									padding: 10px;
+									text-decoration: none;
+									color: #333;
+									width: 200px;
+								}
+							</style>
+
 							<!-- Search Box -->
 							<div class="search-box">
-								<form method="post" action="contact.html">
+								<!-- <form method="post" action="contact.html">
 									<div class="form-group">
 										<input type="search" name="search-field" value=""
 											placeholder="Search..." required="">
 										<button type="submit"><span class="icon fa fa-search"></span></button>
+									</div>
+								</form> -->
+								<!-- <form id="searchForm" method="post" action="contact.html">
+									<div class="form-group">
+										<input type="search" id="searchField" name="search-field" value="" placeholder="Search..." required="">
+										<button type="button" onclick="performSearch()"><span class="icon fa fa-search"></span></button>
+									</div>
+								</form> -->
+								<form id="searchForm" method="post" action="contact.html">
+									<div class="form-group">
+										<input type="search" id="searchField" name="search-field" value=""
+											placeholder="Search..." required="" oninput="showSearchResults()">
+										<div id="searchResults" class="search-results"></div>
+										<button type="button" onclick="performSearch()"><span
+												class="icon fa fa-search"></span></button>
 									</div>
 								</form>
 							</div>
@@ -291,205 +320,113 @@
 			</div>
 		</section>
 		<!-- End Page Title -->
-
-		<!-- Contact One -->
-		<section class="contact-one" style="background-image:url(images/background/map-1.pn)">
-			<div class="auto-container">
-				<!-- Sec Title -->
-				<div class="sec-title">
-					<div class="d-flex justify-content-between align-items-center flex-wrap">
-						<div class="left-box">
-							<h4 class="">Contact us</h4>
-							<h2 class="sec-title_heading">Grow Your Business With <br> <span>Our Expertise</span></h2>
-						</div>
-						<!-- <div class="right-box">
+	<!-- Contact One -->
+	<section class="contact-one" style="background-image:url(images/background/map-1.pn)">
+		<div class="auto-container">
+			<!-- Sec Title -->
+			<div class="sec-title">
+				<div class="d-flex justify-content-between align-items-center flex-wrap">
+					<div class="left-box">
+						<h4 class="">Contact us</h4>
+						<h2 class="sec-title_heading">Get Into Touch  <span>Our Expertise</span></h2>
+					</div>
+					<!-- <div class="right-box">
 						<div class="sec-title_text">The perfect blend of mature processes, flexible delivery <br> models, effective project management.</div>
 					</div> -->
-					</div>
-				</div>
-				<div class="row clearfix">
-
-					<div class="row gap-2">
-						<div class="col col-xl-4 mt-5">
-							<div class="row  p-4 gap-2 m-2" style="background-color:rgb(242,246,251);">
-								<div class="col-3  p-2">
-
-									<img src="./images/icons/contact-1.png" alt="">
-
-								</div>
-								<div class="col  p-1">
-
-									<h4 class="text-black">Office address
-									</h4>
-									<p class="text-black">
-										Digital Agency Network 20 Eastbourne Terrace London W2 6LG
-									</p>
-
-								</div>
-
-							</div>
-							<div class="row  p-4 gap-2 m-2" style="background-color:rgb(242,246,251);">
-								<div class="col-3 col  p-1">
-									<img src="./images/icons/contact-2.png" alt="">
-
-
-								</div>
-								<div class="col col  p-1">
-									<h4 class="text-black">Telephone number
-									</h4>
-
-									<li class="text-black p-1">+91 341343434</li>
-									<li class="text-black p-1">+91 341343434</li>
-
-								</div>
-
-							</div>
-							<div class="row  p-4 gap-2 m-2" style="background-color:rgb(242,246,251);">
-								<div class="col-3 col  p-2">
-									<img src="./images/icons/contact-3.png" alt="">
-
-								</div>
-								<div class="col col  p-1">
-									<h4 class="text-black">Mail address
-
-									</h4>
-
-									<li class="text-black p-1">Email : @gmail.com</li>
-									<li class="text-black p-1">Email : @gmail.com</li>
-
-								</div>
-
-							</div>
-
-
-						</div>
-						<div class="col  p-5" style="background-color:rgb(242,246,251);">
-
-							<style>
-								.error {
-									color: red;
-									display: none;
-								}
-							</style>
-
-							<!-- <form action="" style="line-height:25px;">
-
-								<div>
-									<div class="row">
-										<div class="col d-flex flex-column">
-											<label for="" style="font-size: 15px;font-weight:600;" class="p-1">Name
-												(required)
-											</label>
-											<input type="text" class="p-3" placeholder="Your name*">
-											<span class="text-danger mt-1">THIS FIELD IS REQUIRED.</span>
-
-										</div>
-										<div class="col d-flex flex-column">
-
-											<label for="" style="font-size: 15px;font-weight:600;" class="p-1">Email
-												adress (required)
-											</label>
-											<input type="text" class="p-3" placeholder="Email">
-											<span class="text-danger mt-1">THIS FIELD IS REQUIRED.</span>
-
-										</div>
-									</div>
-									<div class="row mt-3">
-
-										<div class="col d-flex flex-column">
-											<label for="" style="font-size: 15px;font-weight:600;" class="p-1">Phone
-												(optional)
-											</label>
-											<input type="text" class="p-3" placeholder="Phone">
-											<span class="text-danger mt-1">THIS FIELD IS REQUIRED.</span>
-
-										</div>
-										<div class="col d-flex flex-column">
-
-											<label for="" style="font-size: 15px;font-weight:600;" class="p-1">Subject
-												(required)
-											</label>
-											<input type="text" class="p-3" placeholder="Subject">
-											<span class="text-danger mt-1">THIS FIELD IS REQUIRED.</span>
-
-										</div>
-										<div class="row m-1 mt-3" style="position: relative; right: 4px;">
-											<label for="" style="font-size: 15px;font-weight:600;" class="p-1">Your
-												message
-											</label>
-											<textarea name="" id="" cols="30" rows="6" class="pt-3 ps-3"
-												placeholder="Your text here..."></textarea>
-											<span class="text-danger mt-1">THIS FIELD IS REQUIRED.</span>
-
-										</div>
-
-										<div class="row m-1  " style="position: relative; right: 4px;top: 20px;">
-											<button class="p-3 text-white" style="background-color: blue;">Send
-												Message</button>
-										</div>
-
-									</div>
-								</div>
-
-							</form> -->
-
-							<form id="myForm" action="" style="line-height: 25px;">
-
-								<div>
-									<div class="row">
-										<div class="col d-flex flex-column">
-											<label for="name" style="font-size: 15px; font-weight: 600;" class="p-1">Name (required)
-											</label>
-											<input type="text" id="name" class="p-3" placeholder="Your name*" required>
-											<span class="error mt-2" id="nameError">THIS FIELD IS REQUIRED.</span>
-										</div>
-										<div class="col d-flex flex-column">
-											<label for="email" style="font-size: 15px; font-weight: 600;" class="p-1">Email address (required)
-											</label>
-											<input type="email" id="email" class="p-3" placeholder="Email" required>
-											<span class="error mt-2" id="emailError">THIS FIELD IS REQUIRED.</span>
-										</div>
-									</div>
-									<div class="row mt-3">
-										<div class="col d-flex flex-column">
-											<label for="phone" style="font-size: 15px; font-weight: 600;" class="p-1">Phone (optional)
-											</label>
-											<input type="text" id="phone" class="p-3" placeholder="Phone">
-											<span class="error mt-2" id="phoneError">THIS FIELD IS REQUIRED.</span>
-
-										</div>
-										<div class="col d-flex flex-column">
-											<label for="subject" style="font-size: 15px; font-weight: 600;" class="p-1">Subject (required)
-											</label>
-											<input type="text" id="subject" class="p-3" placeholder="Subject" required>
-											<span class="error mt-2" id="subjectError">THIS FIELD IS REQUIRED.</span>
-										</div>
-									</div>
-									<div class="row m-1 mt-3" style="position: relative; right: 4px;">
-										<label for="message" style="font-size: 15px; font-weight: 600;" class="p-1">Your message
-										</label>
-										<textarea id="message" cols="30" rows="6" class="pt-3 ps-3" placeholder="Your text here..." required></textarea>
-										<span class="error mt-2" id="messageError">THIS FIELD IS REQUIRED.</span>
-									</div>
-									<div class="row m-1 " style="position: relative; right: 4px;top: 20px;">
-										<button type="button" class="p-3 text-white" style="background-color: blue;" onclick="validateForm()">Send Message</button>
-									</div>
-								</div>
-							
-							</form>
-							
-
-
-						</div>
-
-					</div>
-
-
-
 				</div>
 			</div>
-		</section>
-		<!-- End Contact One -->
+			<div class="row clearfix">
+			
+				<!-- Info Column -->
+				<div class="info-column col-lg-4 col-md-12 col-sm-12">
+					<div class="inner-column">
+						
+						<!-- Contact Block -->
+						<div class="contact-block">
+							<div class="block-inner">
+								<span class="icon"><img src="images/icons/contact-1.png" alt=""></span>
+								<strong>Office address</strong>
+								Old Nr: 74 New Nr: 20-2,Keshava Krupa Building 1st Floor, 30th cross, 10th Main Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011
+							</div>
+						</div>
+						
+						<!-- Contact Block -->
+						<div class="contact-block">
+							<div class="block-inner">
+								<span class="icon"><img src="images/icons/contact-2.png" alt=""></span>
+								<strong>Telephone number</strong>
+								086181 51685 <br> 086181 51685
+							</div>
+						</div>
+						
+						<!-- Contact Block -->
+						<div class="contact-block">
+							<div class="block-inner">
+								<span class="icon"><img src="images/icons/contact-3.png" alt=""></span>
+								<strong>Mail address</strong>
+								info@meridatechminds.com<br> help@support.com
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				
+				<!-- Form Column -->
+				<div class="form-column col-lg-8 col-md-12 col-sm-12">
+					<div class="inner-column">
+						
+						<!-- Contact Form -->
+						<div class="contact-form">
+							<form method="post" action="sendemail.php" id="contact-form">
+								<div class="row clearfix">
+									
+									<div class="col-lg-6 col-md-6 col-sm-12 form-group">
+										<label>Name (required)</label>
+										<input type="text" name="username" placeholder="Your name*" required="">
+									</div>
+									
+									<div class="col-lg-6 col-md-6 col-sm-12 form-group">
+										<label>Email adress (required)</label>
+										<input type="text" name="email" placeholder="Email" required="">
+									</div>
+									
+									<div class="col-lg-6 col-md-12 col-sm-12 form-group">
+										<label>Phone (optional)</label>
+										<input type="text" name="phone" placeholder="Phone" required="">
+									</div>
+									
+									<div class="col-lg-6 col-md-12 col-sm-12 form-group">
+										<label>Subject (required)</label>
+										<input type="text" name="subject" placeholder="Subject" required="">
+									</div>
+									
+									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
+										<label>Your message</label>
+										<textarea class="" name="message" placeholder="Your text here..."></textarea>
+									</div>
+									
+									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
+										<!-- <button class="btn-style-seven theme-btn">
+											<span class="btn-wrap">
+												<span class="text-one">Send message</span>
+												<span class="text-two">Send message</span>
+											</span>
+										</button> -->
+										<button class="btn btn-primary p-2">Send message</button>
+									</div>
+									
+								</div>
+							</form>
+						</div>
+						<!-- End Comment Form -->
+						
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- End Contact One -->
 
 		<!-- Map One -->
 		<section class="map-one">
@@ -506,16 +443,17 @@
 
 
 
+		
 		<!-- CTA One -->
 		<section class="bg-primary p-5">
 			<div class="auto-container">
 				<div class="d-flex justify-content-between align-items-center flex-wrap">
 					<div class="left-box">
-						<h3 class="cta-one_heading">Looking for the Best IT Business Solutions?</h3>
+						<h3 class="cta-one_heading">Looking For The Best Tuition Center</h3>
 						<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 					</div>
 					<div class="right-box">
-						<a class="cta-one_btn theme-btn bg-white text-black" href="">get a quote</a>
+						<a class="cta-one_btn theme-btn bg-white text-black" href="contact.html">get a quote</a>
 					</div>
 				</div>
 			</div>

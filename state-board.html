@@ -3,13 +3,14 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Merida -Tuition</title>
+	<title>State Board -Tuition</title>
 	<!-- Stylesheets -->
 	<link href="css/bootstrap.css" rel="stylesheet">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
 		integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 	<link href="css/style.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
 	<!-- <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"> -->
@@ -87,46 +88,40 @@
 
 									<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 										<ul class="navigation clearfix">
-											<li class=""><a href="#">Home</a>
-												<!-- <ul>
-													<li><a href="#"> One</a></li>
-													<li><a href="#"> Two</a></li>
-													<li><a href="#"> Three</a></li>
-													<li><a href="#"> Four</a></li>
-													<li class="dropdown"><a href="#">Sub</a>
-														<ul>
-															<li><a href="#"> One</a></li>
-															<li><a href="index-2.html"> Two</a></li>
-															<li><a href="index-3.html"> Three</a></li>
-															<li><a href="index-4.html"> Four</a></li>
-														</ul>
-													</li>
-												</ul> -->
+											<li ><a href="index.html">Home</a>
+												
 											</li>
 											<li><a href="about.html">About Us</a></li>
 											<li class="dropdown"><a href="services.html">Services</a>
 												<ul>
-                                                    <li><a href="cbsc.html">CBSE Syllabus</a></li>
-                                                    <li><a href="icsc.html">ICSE Syllabus</a></li>
-                                                    <li><a href="state-board.html">State Board Syllabus</a></li>
-                                                    <li><a href="isc.html">ISC Syllabus</a></li>
-                                                </ul>
-											</li>
-											<li class="dropdown"><a href="project.html">Subject</a>
-												<ul>
-													<li><a href="project.html">English</a></li>
-													<li><a href="project.html">Maths</a></li>
-													<li><a href="project.html">Physics</a></li>
-													<li><a href="project.html">Chemistry</a></li>
-													<li><a href="project.html">Biology</a></li>
-													<li><a href="project.html">French</a></li>
-													<li><a href="project.html">Hindi</a></li>
-													<li><a href="project.html">kannada</a></li>
-		
-													<li><a href="project.html">History & Geography</a></li>
-													
+													<li><a href="cbsc.html">CBSE Syllabus</a></li>
+													<li><a href="icsc.html">ICSE Syllabus</a></li>
+													<li><a href="state-board.html">State Board Syllabus</a></li>
+													<li><a href="isc.html">ISC Syllabus</a></li>
 												</ul>
 											</li>
+											<li class="dropdown"><a href="">Subjects</a>
+												<ul>
+
+													<li class="dropdown"><a href="">Language Tuition</a>
+														<ul>
+															<li><a href="Tamil.html">Tamil</a></li>
+															<li><a href="English.html">English</a></li>
+															<li><a href="French.html">French</a></li>
+															<li><a href="Kannada.html">kannada</a></li>
+															<li><a href="Hindi.html">Hindi</a></li>
+
+														</ul>
+													</li>
+													<li><a href="Maths.html">Maths</a></li>
+													<li><a href="Physics.html">Physics</a></li>
+													<li><a href="Chemistry.html">Chemistry</a></li>
+													<li><a href="Biology.html">Biology</a></li>
+													<li><a href="History.html">History </a></li>
+													<li><a href="Geography.html"> Geography</a></li>
+												</ul>
+											</li>
+
 											<li class=""><a href="blog.html">Blog</a>
 												<!-- <ul>
 													<li><a href="#">one</a></li>
@@ -142,13 +137,48 @@
 
 								<div class="outer-box d-flex align-items-center">
 
+									<style>
+										.search-results {
+											display: none;
+											position: absolute;
+											background-color: #fff;
+											border: 1px solid #ccc;
+											max-width: 300px;
+											overflow-y: auto;
+											max-height: 150px;
+										}
+
+										.search-results a {
+											display: block;
+											padding: 10px;
+											text-decoration: none;
+											color: #333;
+											width: 200px;
+										}
+									</style>
+
 									<!-- Search Box -->
 									<div class="search-box">
-										<form method="post" action="contact.html">
+										<!-- <form method="post" action="contact.html">
 											<div class="form-group">
 												<input type="search" name="search-field" value=""
 													placeholder="Search..." required="">
 												<button type="submit"><span class="icon fa fa-search"></span></button>
+											</div>
+										</form> -->
+										<!-- <form id="searchForm" method="post" action="contact.html">
+											<div class="form-group">
+												<input type="search" id="searchField" name="search-field" value="" placeholder="Search..." required="">
+												<button type="button" onclick="performSearch()"><span class="icon fa fa-search"></span></button>
+											</div>
+										</form> -->
+										<form id="searchForm" method="post" action="contact.html">
+											<div class="form-group">
+												<input type="search" id="searchField" name="search-field" value=""
+													placeholder="Search..." required="" oninput="showSearchResults()">
+												<div id="searchResults" class="search-results"></div>
+												<button type="button" onclick="performSearch()"><span
+														class="icon fa fa-search"></span></button>
 											</div>
 										</form>
 									</div>
@@ -286,11 +316,169 @@
 		<!-- End Main Header -->
 
 
-		<div class="p-5">
-			<h3>State Board Syllabus</h3>
-		</div>
+
+		
+		<!-- Page Title -->
+		<section class="page-title" style="background-image:url('https://img.freepik.com/free-photo/education-concept-student-studying-brainstorming-campus-concept-close-up-students-discussing-their-subject-books-textbooks-selective-focus_1418-627.jpg?w=740&t=st=1708427900~exp=1708428500~hmac=6337685e04fc3d9cd2f170872ed39e667d5339028d2ee83cb22baedb759ff62f')">
+			<div class="auto-container">
+				<h2>State Board Syllabus</h2>
+				<ul class="bread-crumb clearfix">
+					<li><a href="index.html">Home</a></li>
+					<li>State Board Syllabus</li>
+				</ul>
+			</div>
+		</section>
+		<!-- End Page Title -->
+
+					<!-- Sb page content start -->
 
 
+		<section>
+
+			<style>
+				.sec-title_two-heading {
+					font-size: 35px;
+				}
+			</style>
+
+			<div class="container-fluid">
+				<div class="row m-2 ">
+					<div class="col ">
+						              
+						<h5 class="sec-title_two-heading ms-1"> What is the <span>state board?</span>
+							
+						</h5>
+						<p class="p-2">
+							The state board education system is a system where the board is set by the state government. Each state designs its own syllabus .The state board consists of the primary, secondary and higher secondary education system. From 1st to 7th std is the primary section, from 7th to 10th  is the secondary section and from 11th to 12th is the higher secondary section. Each state has its own state board.
+
+						</p>
+						<p class="p-2">
+
+							The secondary and higher secondary sections are handled by the state board.The syllabus and exams are also conducted by the state board.The textbooks for the classes are also prescribed by the state board.
+
+						</p>
+
+					</div>
+					<div class="col  m-5">
+
+						<img src="images/Home-back/close-up-team-leader-explaining-board.jpg" alt="">
+
+
+
+					</div>
+
+
+				</div>
+
+				<div class="row m-3">
+
+
+					<h4 class=" p-2">How is the state board education?
+
+					</h4>
+
+
+					<div class="p-2 mt-2">
+
+						<div>
+							<p>State boards are catering more to the regional students.They promote the regional culture and language and local environment.So that students understand their state first.
+								State board medium of instruction can be in the local language or in english. So they give importance to local and regional languages. State board school’s fee structure is less costly than that of CBSE and ICSE boards. State board education is only recognized in the state but may not get that much recognition all over the nation.The fee structure is also affordable here and in government schools it is very less.
+								</p>
+						</div>
+					</div>
+
+				</div>
+
+				<div class="row m-3">
+
+
+					<h4 class=" p-2">Why do state board students need tuition?
+
+
+					</h4>
+
+
+					<div class="p-2 mt-2">
+
+						<div>
+							<p><i class="fa-solid fa-arrow-right-long  pe-2" style="color: rgb(109,25,239);"></i> With more MNCs coming to India and setting up their offices in India , they need people with relevant skills and the knowledge of english. So the students from the state board may or may not have studied in English .Tuitions will fill this gap and coach in english.
+							</p>
+						</div>
+						<div>
+							<p><i class="fa-solid fa-arrow-right-long  pe-2" style="color: rgb(109,25,239);"></i> If the subjects have to be mastered the tuitions help them as they coach them keeping a standard with helping them pass the board exams and learn at a higher standard.
+							</p>
+						</div>
+						<div>
+							<p><i class="fa-solid fa-arrow-right-long  pe-2" style="color: rgb(109,25,239);"></i> To crack the national level entrance exams and competitive exams, tuition creates a base for them by teaching the basics and concepts well.
+
+							</p>
+						</div>
+						<div>
+							<p><i class="fa-solid fa-arrow-right-long  pe-2" style="color: rgb(109,25,239);"></i>  To be more proficient in math and science the tuition helps so that they get admissions in international schools and colleges.
+							</p>
+						</div>
+						<div>
+							<p><i class="fa-solid fa-arrow-right-long  pe-2" style="color: rgb(109,25,239);"></i> Tuition helps in learning standard English so that an international standard is maintained.
+
+							</p>
+						</div>
+						<div>
+							<p><i class="fa-solid fa-arrow-right-long  pe-2" style="color: rgb(109,25,239);"></i> To crack the prestigious exams like IIT, IIM and IAS ,IPS  a base can be obtained from tuition to prepare for these exams.
+							</p>
+						</div>
+						<div>
+							<p><i class="fa-solid fa-arrow-right-long  pe-2" style="color: rgb(109,25,239);"></i>The state school teaching  may not be that good that they can pass the state  board exam , so tuition will help them fill this gap.The tuition  helps them learn using different strategies and methods .
+							</p>
+						</div>
+
+						<div>
+							<p><i class="fa-solid fa-arrow-right-long  pe-2" style="color: rgb(109,25,239);"></i>Since the students will have many doubts while preparing for the state board exam, tuitions will examine and clear the doubts for the students and help them get a standard so that they can solve question papers and problems.
+
+							</p>
+						</div>
+						<div>
+							<p><i class="fa-solid fa-arrow-right-long  pe-2" style="color: rgb(109,25,239);"></i>Tuitions can bring consistency and discipline for state board students. As they will have regular tuition classes and attending it cultivates a discipline in them.
+
+							</p>
+						</div>
+
+
+					</div>
+
+				</div>
+
+
+			</div>
+
+
+
+
+
+
+
+
+
+
+		</section>
+
+							<!-- Sb page content End -->
+
+
+		<!-- CTA One -->
+		<section class="bg-primary p-5">
+			<div class="auto-container">
+				<div class="d-flex justify-content-between align-items-center flex-wrap">
+					<div class="left-box">
+						<h3 class="cta-one_heading">Looking For The Best Tuition Center</h3>
+						<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
+					</div>
+					<div class="right-box">
+						<a class="cta-one_btn theme-btn bg-white text-black" href="contact.html">get a quote</a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End CTA One -->
 
 
 		<!-- Footer -->
